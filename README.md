@@ -1,9 +1,13 @@
 # ☕️ Cuantos días trabajamos en un año (Desafío Banco Internacional)
 
+## Contexto
+ Siempre que se aproxima un nuevo año nos interesa saber cuantos feriados este tiene y lo mas importante si estos corresponden a un día de semana. 
+ Es por esto que en este desafío nos encargaremos de responder estas simples preguntas.
+
 ## 🏁 Objetivo
 
 * Generar una funcion capaz de entregar una cantidad de dias feriados generados aleatoriamente
-* Generar una funcion que en base a un listado de dias feriados (👆) calcule la cantidad de días que debemos trabajar
+* Generar una funcion que en base a un listado de dias feriados (👆) que calcule la cantidad de días que debemos trabajar en un año
 
 ## 🤔 Consideraciones
 
