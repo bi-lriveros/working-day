@@ -1,7 +1,7 @@
 # ☕️ Cuantos días trabajamos en un año (Desafío Banco Internacional)
 
 ## Contexto
- Siempre que se aproxima un nuevo año nos interesa saber cuantos feriados este tiene y lo mas importante si estos corresponden a un día de semana. 
+ Siempre que se aproxima un nuevo año nos interesa saber cuantos feriados este tiene y lo mas importante si estos corresponden a un día de semana 😏. 
  Es por esto que en este desafío nos encargaremos de responder estas simples preguntas.
 
 ## 🏁 Objetivo
