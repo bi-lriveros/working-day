@@ -16,7 +16,7 @@
 ## ✓ Ejemplo
 
 Considerando como dias feriados del año 2022 los siguientes
-```json
+```
 [
   2022-08-09, 
   2022-05-07, 
