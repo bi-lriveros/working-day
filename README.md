@@ -11,6 +11,7 @@
 
 ## 🤔 Consideraciones
 
+* ⚠️ Adjuntar instrucciones para ejecutar el proyecto
 * Al generar las fechas de forma aleatoria, estas no debe contener duplicados
 * Se considerará dia laboral de lunes a viernes
 * Para este caso los feriados existentes sólo seran los entregados por la primera función
@@ -35,3 +36,7 @@ Entonces la respuesta del problema final debe ser la siguiente
   Feriado En Dia Semana = 4
   Dias Laborales = 256
 ```
+## ✅ Conceptos a evaluar
+
+* Solución al problema
+* Correcto manejo de fechas
